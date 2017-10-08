@@ -1,0 +1,32 @@
+1_1Czy w tej sytuacji znajdujesz siê na jezdni dwukierunkowej?TAK
+//Znak P-4 "linia podwójna ci¹g³a" rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz przeje¿d¿ania przez tê liniê i naje¿d¿ania na ni¹.
+
+1_2Czy wolno Ci skrêciæ w lewo przed przejœciem dla pieszych?NIE
+//Znak P-3 "linia jednostronnie przekraczalna" oznacza zakaz przeje¿d¿ania przez tê liniê od strony linii ci¹g³ej i naje¿d¿ania na ni¹, z wyj¹tkiem powrotu po wyprzedzaniu na po³o¿ony przy linii przerywanej pas ruchu zajmowany przed wyprzedzaniem.
+
+1_3Czy na jezdni oznaczonej tym znakiem wolno Ci zawróciæ?NIE
+//Znak D-3 "droga jednokierunkowa" oznacza pocz¹tek lub kontynuacjê drogi lub jezdni, na której ruch odbywa siê w jednym kierunku.
+
+1_4Czy na tej drodze mo¿esz spodziewaæ siê rowerzystów nadje¿d¿aj¹cych z przeciwka?TAK
+//Umieszczona pod znakiem D-3 tabliczka z napisem „Nie dotyczy” wraz z symbolem pojazdu lub wyra¿eniem okreœlaj¹cym pojazd wskazuje, ¿e ruch pojazdów okreœlonych tabliczk¹ odbywa siê w dwóch kierunkach.
+
+1_5Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w zwi¹zku ze znakiem "stop"?NIE
+//Znak P-14 „linia warunkowego zatrzymania z³o¿ona z prostok¹tów” wskazuje miejsce zatrzymania pojazdu:
+1) na skrzy¿owaniu na wlotach dróg równorzêdnych,
+2) przed przejœciem dla pieszych,
+3) przed przystankami tramwajowymi bez wysepek,
+4) przed przejazdami tramwajowymi i kolejowymi,
+5) przed przejazdem dla rowerzystów,
+6) przed œluz¹ dla rowerów,
+7) przed sygna³em œwietlnym.
+
+1_6Zamierzasz odpocz¹æ. Czy w tym miejscu mo¿esz skrêciæ w lewo, na parking?NIE
+//Znak P-4 "linia podwójna ci¹g³a" rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz przeje¿d¿ania przez tê liniê i naje¿d¿ania na ni¹.
+
+1_7Czy w tym miejscu wolno Ci wjechaæ na pas ruchu przeznaczony dla pojazdów jad¹cych w przeciwnym kierunku?NIE
+// Znak P-3 "linia jednostronnie przekraczalna" oznacza zakaz przeje¿d¿ania przez tê liniê od strony linii ci¹g³ej i naje¿d¿ania na ni¹, z wyj¹tkiem powrotu po wyprzedzaniu na po³o¿ony przy linii przerywanej pas ruchu zajmowany przed wyprzedzaniem.
+
+1_8Kierujesz samochodem ciê¿arowym o dopuszczalnej masie ca³kowitej 12 ton. Czy w przedstawionej sytuacji wolno Ci wjechaæ na autostradê przez tê bramkê?TAK
+//Znak B-5 "zakaz wjazdu samochodów ciê¿arowych" oznacza zakaz ruchu:
+1) samochodów ciê¿arowych o dopuszczalnej masie ca³kowitej przekraczaj¹cej 3,5 t (...)
+Na za³¹czonym obrazku znak B-5 jest umieszczony nad bramkami znajduj¹cymi siê po lewej i prawej stronie, zatem w przedstawionej sytuacji wolno wjechaæ samochodem ciê¿arowym na autostradê przez œrodkow¹ bramkê.

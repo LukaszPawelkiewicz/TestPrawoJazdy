@@ -1,0 +1,26 @@
+2_1Z jak¹ dopuszczaln¹ prêdkoœci¹ mo¿esz jechaæ w strefie zamieszkania?a)40km/hb)30km/h[c]20km/h
+//Prêdkoœæ dopuszczalna pojazdu lub zespo³u pojazdów w strefie zamieszkania wynosi 20 km/h.
+
+2_2Czy podczas jazdy w takich warunkach drogowych powinieneœ korzystaæ z pasów bezpieczeñstwa?a)Nie, gdy poruszam siê z niewielk¹ prêdkoœci¹.[b]Tak, w ka¿dym przypadku.c)Tak, ale tylko w przypadku jazdy z prêdkoœci¹ wiêksz¹ ni¿ 50 km/h.
+//Kieruj¹cy pojazdem samochodowym oraz osoba przewo¿ona takim pojazdem wyposa¿onym w pasy bezpieczeñstwa s¹ obowi¹zani korzystaæ z tych pasów podczas jazdy, z zastrze¿eniem ust. 3, 3b i 3c.
+
+2_3Jaki jest minimalny regularny okres dziennego odpoczynku kierowcy wykonuj¹cego przewóz drogowy?a)9 kolejnych godzin.[b]11 kolejnych godzin.c)13 godzin.
+//regularny dzienny okres odpoczynku” oznacza nieprzerwany odpoczynek trwaj¹cy co najmniej 11 godzin.
+
+2_4Jaki minimalny odstêp od pojazdu poprzedzaj¹cego powinieneœ zachowaæ, stoj¹c w tunelu, w zatorze drogowym tzw korku?a)3m[b]5mc)7m
+//Kieruj¹cy pojazdem w tunelu, podczas zatrzymania wynikaj¹cego z warunków lub przepisów ruchu drogowego, jest obowi¹zany zachowaæ odstêp od poprzedzaj¹cego pojazdu nie mniejszy ni¿ 5 m.
+
+2_5Co mo¿e zak³óciæ w³aœciwy sposób obserwacji drogi w czasie kierowania samochodem ciê¿arowym w nocy?[a]Brak zdolnoœci rozró¿niania kszta³tów w mroku oraz wra¿liwoœæ na oœlepienie.b)U¿ywanie w³aœciwych okularów do jazdy nocnej.c)W³aœciwa ostroœæ wzroku kieruj¹cego.
+//Po zmroku na drogach panuje ograniczona widocznoœæ. Jad¹ce z przeciwka pojazdy maj¹ w³¹czone œwiat³a. Nabycie umiejêtnoœci niespogl¹dania w nie pozwala na lepsz¹ obserwacjê drogi. Pocz¹tkuj¹cy kierowcy jednak bardziej koncentruj¹ wzrok na œwiat³ach pojazdu jad¹cego z przeciwka ni¿ na poboczu. Nastêpuje wówczas zjawisko maksymalnego zwê¿enia Ÿrenicy, po czym pojazd jad¹cy z naprzeciwka mija nas, a nasza Ÿrenica potrzebuje czasu, aby ponownie siê powiêkszyæ, co w efekcie znowu pozwoli na lepsze widzenie w nocy. 
+
+2_6Któr¹ z wymienionych czynnoœci powinieneœ wykonaæ, aby p³ynnie ruszyæ z miejsca?[a]Stopniowo zwalniaæ peda³ sprzêg³a.b)Gwa³townie zwolniæ peda³ sprzêg³a.c)Najpierw znacznie zwiêkszyæ obroty silnika, nastêpnie szybko zwolniæ peda³ sprzêg³a.
+//Ruszaj¹c, peda³ sprzêg³a musisz stopniowo zwalniaæ. Nie rób tego gwa³townie - zw³aszcza w pierwszej fazie przy ruszaniu z miejsca, poniewa¿ pojazd szarpnie, a silnik mo¿e zgasn¹æ. Prawid³owe ruszanie bêdzie wówczas, gdy pojazd rozpocznie jazdê p³ynnie".
+
+2_7Która z tych wartoœci, okreœlaj¹cych zawartoœæ alkoholu w 1 dm3 wydychanego powietrza oznacza, ¿e prowadzenie samochodu osobowego jest zabronione?a)0,05 mg.[b]0,1 mg.c)0,025 mg.
+// blokada alkoholowa – urz¹dzenie techniczne uniemo¿liwiaj¹ce uruchomienie silnika pojazdu silnikowego i pojazdu szynowego, w przypadku gdy zawartoœæ alkoholu w wydychanym przez kieruj¹cego powietrzu wynosi co najmniej 0,1 mg alkoholu w 1 dm3;
+
+2_8Który z wymienionych dokumentów okreœla dopuszczaln¹ liczbê osób przewo¿onych pojazdem samochodowym?[a]Dowód rejestracyjny.b)Prawo jazdy.c)Dokument stwierdzaj¹cy zawarcie umowy obowi¹zkowego ubezpieczenia odpowiedzialnoœci cywilnej.
+//Przewóz osób mo¿e odbywaæ siê tylko pojazdem do tego przeznaczonym lub przystosowanym. Liczba przewo¿onych osób nie mo¿e przekraczaæ liczby miejsc okreœlonych w dowodzie rejestracyjnym, z zastrze¿eniem ust. 4.
+
+2_9Jakie mog¹ byæ konsekwencje u¿ytkowania opon z nadmiernie zu¿ytym bie¿nikiem, podczas hamowania na mokrej nawierzchni?a)Wzrost si³y tarcia.b)Skrócenie drogi hamowania.[c]Zmniejszenie si³y tarcia i wyd³u¿enie drogi hamowania.
+//Bie¿nik jest to zewnêtrzna czêœæ opony, która styka siê z powierzchni¹ drogi. Nadmiernie zu¿yty bie¿nik zmniejsza przyczepnoœæ opony do drogi, co powoduje zmniejszenie si³y tarcia oraz wyd³u¿enie drogi hamowania.

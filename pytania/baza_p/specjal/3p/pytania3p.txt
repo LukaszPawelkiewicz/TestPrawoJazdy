@@ -1,0 +1,47 @@
+3_1Który z wymienionych pojazdów ma prawo wjechaæ na drogê za tym znakiem?[a]Motorower.b)Samochód osobowy.c)Czteroko³owiec lekki.
+//Znak B-3 "zakaz wjazdu pojazdów silnikowych, z wyj¹tkiem motocykli jednoœladowych", oznacza zakaz ruchu pojazdów silnikowych; zakaz nie dotyczy motocykli jednoœladowych.
+
+3_2Która osoba ma obowi¹zek korzystania z pasów bezpieczeñstwa?a)Osoba przewo¿ona na wózku inwalidzkim.[b]Kieruj¹cy pojazdem.c)Kobieta w widocznej ci¹¿y.
+//1. Kieruj¹cy pojazdem samochodowym oraz osoba przewo¿ona takim pojazdem wyposa¿onym w pasy bezpieczeñstwa s¹ obowi¹zani korzystaæ z tych pasów podczas jazdy, z zastrze¿eniem ust. 3, 3b i 3c.
+2. Obowi¹zek korzystania z pasów bezpieczeñstwa nie dotyczy:
+1) osoby maj¹cej zaœwiadczenie lekarskie o przeciwwskazaniu do u¿ywania pasów bezpieczeñstwa;
+2)	kobiety o widocznej ci¹¿y;
+3)	kieruj¹cego taksówk¹ podczas przewo¿enia pasa¿era;
+4)	instruktora lub egzaminatora podczas szkolenia lub egzaminowania;
+5)	policjanta, funkcjonariusza Agencji Bezpieczeñstwa Wewnêtrznego, Agencji Wywiadu, S³u¿by Kontrwywiadu Wojskowego, S³u¿by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra¿y Granicznej, Inspektora Kontroli Skarbowej, funkcjonariusza celnego i S³u¿by Wiêziennej, ¿o³nierza Si³ Zbrojnych Rzeczypospolitej Polskiej - podczas przewo¿enia osoby (osób) zatrzymanej;
+6)	funkcjonariusza Biura Ochrony Rz¹du podczas wykonywania czynnoœci s³u¿bowych;
+6a) ¿o³nierza ¯andarmerii Wojskowej podczas wykonywania czynnoœci ochronnych;
+7)	zespo³u medycznego w czasie udzielania pomocy medycznej;
+8)	konwojenta podczas przewo¿enia wartoœci pieniê¿nych;
+9)	osoby chorej lub niepe³nosprawnej przewo¿onej na noszach lub w wózku inwalidzkim;
+10) dziecka w wieku poni¿ej 3 lat przewo¿onego pojazdem kategorii M2 i M3;
+11) dziecka przewo¿onego na zasadach przewidzianych w art. 2 ust. 2 ustawy z dnia 20 czerwca 1992 r. o uprawnieniach do ulgowych przejazdów œrodkami publicznego transportu zbiorowego (Dz. U. z 2012 r. poz. 1138, z póŸn. zm.).
+
+3_3Ile godzin powinien trwaæ regularny tygodniowy okres odpoczynku kierowcy wykonuj¹cego przewóz drogowy?a)Co najmniej 24 kolejne godziny.b)Co najmniej 36 kolejnych godzin.[c]Co najmniej 45 kolejnych godzin.
+//Tygodniowy okres odpoczynku oznacza tygodniowy okres, w którym kierowca swobodnie mo¿e dysponowaæ swoim czasem i obejmuje 'regularny tygodniowy okres odpoczynku' lub 'skrócony tygodniowy okres odpoczynku'. Regularny tygodniowy okres odpoczynku wynosi co najmniej 45 godzin". str. 442
+
+3_4Jaki odstêp nale¿y zachowaæ podczas wyprzedzania motocykla?a)Bezpieczny, ale nie wiêkszy ni¿ 0,5 metra.b)Bezpieczny, ale nie wiêkszy ni¿ 1 metr.[c]Bezpieczny, ale nie mniejszy ni¿ 1 metr.
+//Kieruj¹cy pojazdem jest obowi¹zany przy wyprzedzaniu zachowaæ szczególn¹ ostro¿noœæ, a zw³aszcza bezpieczny odstêp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstêp ten nie mo¿e byæ mniejszy ni¿ 1 m.
+
+3_5Jakie jest ryzyko poœlizgu pojazdu podczas jazdy w czasie deszczu?[a]Najwiêksze w pocz¹tkowej fazie deszczu.b)Najmniejsze w pocz¹tkowej fazie deszczu.c)Najwiêksze w koñcowej fazie deszczu.
+//"Deszcz. W pocz¹tkowej fazie, zmieszany z t³ustym brudem, tworzy na jezdni cienk¹ niewidoczn¹ warstwê œliskiej mazi. W po³¹czeniu z czêsto wystêpuj¹cymi koleinami stwarza to niebezpieczeñstwo wytr¹cenia pojazdu z prostoliniowego toru jazdy".
+
+3_6Kierujesz samochodem ciê¿arowym. Który z wymienionych czynników jesteœ zobowi¹zany uwzglêdniæ, aby zachowaæ bezpieczny odstêp od poprzedzaj¹cego pojazdu?[a]Prêdkoœæ pojazdów.b)Moc silnika.c)Szerokoœæ pojazdów.
+//Kieruj¹cy pojazdem jest obowi¹zany jechaæ z prêdkoœci¹ zapewniaj¹c¹ panowanie nad pojazdem, z uwzglêdnieniem warunków, w jakich ruch siê odbywa, a w szczególnoœci: rzeŸby terenu, stanu i widocznoœci drogi, stanu i ³adunku pojazdu, warunków atmosferycznych i natê¿enia ruchu.
+2. Kieruj¹cy pojazdem jest obowi¹zany:
+3) utrzymywaæ odstêp niezbêdny do unikniêcia zderzenia w razie hamowania lub zatrzymania siê poprzedzaj¹cego pojazdu.
+
+3_7Przy jakim stê¿eniu alkoholu we krwi zabronione jest kierowanie pojazdem samochodowym?[a]0,2 ‰.b)0,1 ‰.c)0,05 ‰.
+//Stan po u¿yciu alkoholu zachodzi, gdy zawartoœæ alkoholu w organizmie wynosi lub prowadzi do:
+1) stê¿enia we krwi od 0,2 ‰ do 0,5 ‰ alkoholu albo
+2) obecnoœci w wydychanym powietrzu od 0,1 mg do 0,25 mg alkoholu w 1 dm3.
+
+3_8Która z wymienionych czynnoœci mo¿e zwiêkszyæ bezpieczeñstwo podczas jazdy po zaœnie¿onej drodze?a)Hamowanie wy³¹cznie przy u¿yciu hamulca rêcznego.[b]Stosowanie opon zimowych.c)Zdecydowane przyspieszanie.
+//"Jazda po œniegu na dobrych zimowych oponach nie nastrêcza specjalnych trudnoœci, a co najwa¿niejsze nie stanowi elementu zaskoczenia. Gorzej jest, gdy œnieg posypany sol¹ zaczyna siê topiæ. Wówczas nawierzchnia staje siê niejednolita. (...) Najwa¿niejsze jest zachowanie bezpiecznej prêdkoœci jazdy. Na drogach pokrytych œniegiem lub zgodnie z oznakowaniem kieruj¹cy ma prawo lub obowi¹zek stosowania ³añcuchów przeciwpoœlizgowych".
+
+3_9Jak¹ funkcjê spe³nia system przeciwblokuj¹cy (ABS)?a)Skraca drogê hamowania w ka¿dych warunkach.b)Zapobiega zerwaniu przyczepnoœci opon podczas przyspieszania.[c]U³atwia omijanie przeszkód w czasie hamowania.
+//"Wbrew obiegowej opinii, zadaniem uk³adu ABS nie jest skrócenie drogi hamowania, lecz utrzymanie prawid³owego toru jazdy podczas hamowania
+
+3_10Jak czêsto nale¿y obracaæ poszkodowanego nieurazowego na drugi bok po u³o¿eniu go w pozycji bezpiecznej?a)Co 60 minut.[b]Co 30 minut. c) Co 15 minut.
+
+

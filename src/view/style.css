@@ -1,0 +1,66 @@
+.background{
+    -fx-background-color: #FFFFFF;
+}
+
+.button-control{
+    -fx-background-color: 
+        #000000,
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#395cab, #223768);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-text-fill: white;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 15px;
+}
+
+.button-control:hover{
+    -fx-background-color: 
+        #000000,
+        linear-gradient(#395cab, #223768),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#7ebcea, #2f4b8f);
+}
+
+.button-control:pressed, .button-control:default:hover:pressed{
+    -fx-background-color:      
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#395cab, #223768);
+}
+
+.button-answer{
+    -fx-background-color: 
+        #000000,
+        linear-gradient(#4d9900, #009900),
+        linear-gradient(#178217, #0f8a0f);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-text-fill: white;
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 15px;
+}
+
+.button-answer:hover{
+    -fx-background-color: 
+        linear-gradient(#178217, #0f8a0f),
+        linear-gradient(#4d9900, #009900);
+}
+
+.button-answer:pressed, .button-answer:default:hover:pressed{
+    -fx-background-color:
+        linear-gradient(#4d9900, #009900),
+        linear-gradient(#178217, #0f8a0f);
+}
+
+.text-area{
+    -fx-border-color: #223768;
+    -fx-border-width: 3;
+    -fx-focus-color: white;
+}
+
+.text-field{
+    -fx-border-color: #223768;
+    -fx-border-width: 3;
+    -fx-focus-color: white;
+}

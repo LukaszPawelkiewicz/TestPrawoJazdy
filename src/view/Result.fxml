@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="720.0" prefWidth="1280.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="controller.ResultController">
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+   <children>
+      <Pane layoutX="49.0" layoutY="14.0" prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label alignment="CENTER" layoutX="564.0" layoutY="14.0" text="Wyniki">
+               <font>
+                  <Font size="51.0" />
+               </font>
+            </Label>
+            <Label alignment="TOP_LEFT" layoutX="14.0" layoutY="88.0" text="Zdobyte punkty: ">
+               <font>
+                  <Font size="51.0" />
+               </font>
+            </Label>
+            <Label fx:id="pointsLabel" alignment="TOP_LEFT" layoutX="396.0" layoutY="88.0" text="&lt;dynamic&gt;">
+               <font>
+                  <Font size="51.0" />
+               </font>
+            </Label>
+            <Button fx:id="btnOk" onAction="#actionOk" layoutX="555.0" layoutY="677.0" mnemonicParsing="false" prefWidth="200.0" styleClass="button-control" text="OK" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

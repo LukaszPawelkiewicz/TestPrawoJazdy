@@ -1,0 +1,20 @@
+1_1Który z pokazanych znaków zabrania przekraczania prêdkoœci 40 km/h?a)Ab)B[c]C
+//Znak B-33 "ograniczenie prêdkoœci" oznacza zakaz przekraczania prêdkoœci okreœlonej na znaku liczb¹ kilometrów na godzinê.
+
+1_2Jakie mog¹ byæ skutki niezapiêcia pasów bezpieczeñstwa przez kierowcê?a)Wiêksze uszkodzenia pojazdu podczas kolizji.[b]Wiêksze obra¿enia cia³a kierowcy podczas wypadku.c)Uszkodzenie poduszki powietrznej.
+//Stosowanie pasów bezpieczeñstwa zmniejsza ryzyko powstania obra¿eñ ciê¿kich lub œmiertelnych. Podczas wypadku si³a uderzenia mo¿e byæ tak du¿a, ze kierowca/pasa¿er pojazdu, który nie zapi¹³ pasów - mo¿e zostaæ wyrzucony z pojazdu. Pasy podczas wypadku przytrzymuj¹ pasa¿era i zapobiegaj¹ np. jego wypadniêciu przez szybê.
+
+1_3W jakiej pozycji nale¿y ustawiæ prze³¹cznik tachografu, je¿eli kierowca przez godzinê nadzoruje za³adunek?[a]Ab)Bc)C
+//Czas pracy kierowcy to okres od rozpoczêcia do zakoñczenia pracy, obejmuj¹cy wszystkie czynnoœci zwi¹zane z wykonywanym przewozem drogowym, do których w szczególnoœci zaliczyæ nale¿y: (...) za³adunek i roz³adunek oraz nadzór nad nimi (...)".
+
+1_4Czego mo¿esz spodziewaæ siê wje¿d¿aj¹c na most oznaczony tym znakiem?a)Zalegaj¹cego œniegu i zasp.b)Obfitych opadów œniegu.[c]Oszronienia jezdni lub go³oledzi, nawet jeœli nie wystêpuj¹ na innych odcinkach drogi.
+//Znak A-32 "oszronienie jezdni" ostrzega o mog¹cym wystêpowaæ na drodze oszronieniu jezdni lub go³oledzi.
+
+1_5W którym z wymienionych przypadków regularne wykonywanie badania technicznego pojazdu ma wp³yw na jego bezpieczne u¿ywanie w ruchu drogowym?[a]Wy³¹cznie po up³ywie okresu gwarancji pojazdu.b)Tylko w okresie gwarancji pojazdu.c)W ca³ym okresie u¿ywania pojazdu.
+//Okresowe badanie techniczne pojazdu przeprowadza siê corocznie, z zastrze¿eniem ust. 6-10.
+
+PYTANIE 1_6 TO 1_7
+
+1_7Co powinien zrobiæ w³aœciciel pojazdu samochodowego w przypadku utraty tablicy rejestracyjnej?a)JeŸdziæ bez tablicy.b)Niezw³ocznie zaopatrzyæ pojazd w inn¹, dowoln¹ tablicê rejestracyjn¹.[c]Wyst¹piæ z wnioskiem o wydanie zalegalizowanego wtórnika tablicy rejestracyjnej.
+//W³aœciciel w przypadku utraty tablicy rejestracyjnej powinien wyst¹piæ z wnioskiem do Wydzia³u Komunikacji o wydanie wtórnika tablicy rejestracyjnej. Jeœli kierowca zauwa¿y³, i¿ brakuje mu 2 tablic i podejrzewa ich kradzie¿ powinien zg³osiæ siê najpierw do komisariatu policji, gdzie otrzyma odpowiednie zaœwiadczenie.
+

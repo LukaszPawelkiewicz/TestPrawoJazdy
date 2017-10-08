@@ -1,0 +1,55 @@
+2_1Kierujesz pojazdem silnikowym. Czy z zajmowanego pasa ruchu wolno Ci pojechaæ przez skrzy¿owanie na wprost?NIE
+//Znak P-23 "rower" oznacza drogê lub jej czêœæ (pas ruchu) przeznaczon¹ dla ruchu rowerów jednoœladowych.
+
+2_2Czy w tej sytuacji musisz zastosowaæ siê do ¿ó³tych znaków poziomych?TAK
+//Je¿eli na drodze s¹ umieszczone znaki barwy bia³ej i ¿ó³tej wskazuj¹ce ró¿ny sposób zachowania, to kieruj¹cy jest obowi¹zany stosowaæ siê do znaków barwy ¿ó³tej.
+
+2_3Czy w tej sytuacji wolno Ci zmieniæ zajmowany pas ruchu, gdy zamierzasz jechaæ na wprost?TAK
+//1. Znak P-1 "linia pojedyncza przerywana", w którym kreski s¹ krótsze od przerw lub równe przerwom, wyznacza pasy ruchu.
+2. Znak P-1 o podwójnej szerokoœci, w którym kreski i przerwy s¹ równe, informuje ponadto, ¿e wyznaczony pas ruchu jest pasem:
+1) ruchu powolnego,
+2) zanikaj¹cym albo
+3) przeznaczonym wy³¹cznie dla pojazdów wyje¿d¿aj¹cych na inn¹ drogê lub jezdniê.
+Znak P-1 zezwala na zmianê pasa.
+
+2_4Czy w tej sytuacji wolno Ci wjechaæ na pas ruchu po lewej stronie?NIE
+//Je¿eli na drodze s¹ umieszczone znaki barwy bia³ej i ¿ó³tej wskazuj¹ce ró¿ny sposób zachowania, to kieruj¹cy jest obowi¹zany stosowaæ siê do znaków barwy ¿ó³tej.
+
+2_5Czy ten znak poziomy wyznacza miejsce bezwzglêdnego zatrzymania siê, nawet w sytuacji, gdy z ¿adnej ze stron nie nadje¿d¿a pojazd?TAK
+//Znak P-12 "linia bezwzglêdnego zatrzymania - stop" wskazuje miejsce zatrzymania pojazdu w zwi¹zku ze znakami pionowymi B-20 lub B-32.
+
+2_6Czy w tym miejscu wolno Ci skrêciæ w lewo i wjechaæ na stacjê paliw?NIE
+//Znak P-4 "linia podwójna ci¹g³a" rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz przeje¿d¿ania przez tê liniê i naje¿d¿ania na ni¹.
+
+2_7Czy widoczna linia z³o¿ona z trójk¹tów wskazuje Ci miejsce zatrzymania pojazdu w celu ust¹pienia pierwszeñstwa?TAK
+//Znak P-13 "linia warunkowego zatrzymania z³o¿ona z trójk¹tów" wskazuje miejsce zatrzymania pojazdu w celu ust¹pienia pierwszeñstwa wynikaj¹cego ze znaku pionowego A-7.
+
+2_8Czy w tej sytuacji wolno Ci skrêciæ w lewo z zajmowanego przez Ciebie pasa ruchu?NIE
+//Je¿eli na drodze s¹ umieszczone znaki barwy bia³ej i ¿ó³tej wskazuj¹ce ró¿ny sposób zachowania, to kieruj¹cy jest obowi¹zany stosowaæ siê do znaków barwy ¿ó³tej.
+
+2_9Kierujesz pojazdem cz³onowym o dopuszczalnej masie ca³kowitej 24 ton. Czy na drodze za tym znakiem postój Twojego pojazdu dozwolony jest tylko na wyznaczonych w tym celu parkingach?TAK
+// Zabrania siê postoju:
+5) na obszarze zabudowanym, pojazdu lub zespo³u pojazdów o dopuszczalnej masie ca³kowitej przekraczaj¹cej 16 t lub o d³ugoœci przekraczaj¹cej 12 m, poza wyznaczonymi w tym celu parkingami.
+
+2_10Czy w tej sytuacji, gdy zamierzasz jechaæ do Gdañska, nale¿y zmieniæ pas ruchu na lewy?NIE
+//Znaki:
+2) E-2b "drogowskaz tablicowy umieszczany nad jezdni¹",
+wskazuj¹ na skrzy¿owaniu lub bezpoœrednio przed nim kierunki do miejscowoœci lub dzielnic miast;
+
+2_11Czy w tej sytuacji musisz przewidywaæ, ¿e zza tramwaju wyjedzie rowerzysta?TAK
+//Znak D-6b "przejœcie dla pieszych i przejazd dla rowerzystów" oznacza wystêpuj¹ce obok siebie miejsca, o których mowa w ust. 1 i 2.
+4. Kieruj¹cy pojazdem zbli¿aj¹cy siê do miejsca oznaczonego znakiem D-6, D-6a albo D-6b jest obowi¹zany zmniejszyæ prêdkoœæ tak, aby nie naraziæ na niebezpieczeñstwo pieszych lub rowerzystów znajduj¹cych siê w tych miejscach lub na nie wchodz¹cych lub wje¿d¿aj¹cych.
+
+2_12Czy wolno Ci zaparkowaæ pojazd w tej zatoce?NIE
+//Zabrania siê zatrzymania pojazdu:
+9)	w odleg³oœci mniejszej ni¿ 15 m od s³upka lub tablicy oznaczaj¹cej przystanek, a na przystanku z zatok¹ - na ca³ej jej d³ugoœci.
+
+2_13Czy za tym znakiem masz prawo zaparkowaæ pojazd na 5 minut ?NIE
+//Zabrania siê postoju:
+3) przed i za przejazdem kolejowym, po obu stronach drogi, na odcinku od przejazdu kolejowego do s³upka wskaŸnikowego z jedn¹ kresk¹;
+
+2_14Czy na tej drodze wolno Ci zrezygnowaæ z sygnalizowania zamiaru skrêtu w prawo, jeœli nikt za Tob¹ nie jedzie?NIE
+//Kieruj¹cy pojazdem jest obowi¹zany zawczasu i wyraŸnie sygnalizowaæ zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestaæ sygnalizowania niezw³ocznie po wykonaniu manewru.
+
+2_15Czy w tej sytuacji masz obowi¹zek u¿ycia kierunkowskazu?TAK
+//Kieruj¹cy pojazdem jest obowi¹zany zawczasu i wyraŸnie sygnalizowaæ zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestaæ sygnalizowania niezw³ocznie po wykonaniu manewru.

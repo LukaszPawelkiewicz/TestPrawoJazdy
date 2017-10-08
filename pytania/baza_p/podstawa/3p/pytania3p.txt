@@ -1,0 +1,50 @@
+3_1Czy w przedstawionej sytuacji masz prawo - mimo podawanego sygna³u - skrêciæ w prawo?NIE
+//Osoby nadzoruj¹ce bezpieczne przejœcie dzieci przez jezdniê daj¹ sygna³ do zatrzymania pojazdu przez uniesienie w górê kwadratowej tarczy barwy ¿ó³tej ze znakiem B-20 z ¿ó³tym napisem i obrze¿em.
+
+3_2Czy w tej sytuacji powinieneœ oczekiwaæ, ¿e nastêpnym sygna³em bêdzie œwiat³o zielone?TAK
+//sygna³y czerwony i ¿ó³ty, nadawane jednoczeœnie - zakaz wjazdu za sygnalizator; sygna³y te oznaczaj¹ tak¿e, ¿e za chwilê zapali siê sygna³ zielony.
+
+3_3Czy w tej sytuacji masz obowi¹zek zatrzymaæ pojazd?TAK
+//Kieruj¹cy pojazdem jest obowi¹zany zachowaæ szczególn¹ ostro¿noœæ przy przeje¿d¿aniu obok oznaczonego przystanku tramwajowego nieznajduj¹cego siê przy chodniku. Je¿eli przystanek nie jest wyposa¿ony w wysepkê dla pasa¿erów, a na przystanek wje¿d¿a tramwaj lub stoi na nim, kieruj¹cy jest obowi¹zany zatrzymaæ pojazd w takim miejscu i na taki czas, aby zapewniæ pieszemu swobodne dojœcie do tramwaju lub na chodnik. Przepisy te stosuje siê odpowiednio przy ruchu innych pojazdów komunikacji publicznej.
+
+3_4Czy w tej sytuacji wolno Ci skrêciæ w prawo bez zatrzymania siê przed sygnalizatorem?NIE
+// Nadawany przez sygnalizator S-2 sygna³ czerwony wraz z sygna³em w kszta³cie zielonej strza³ki oznacza, ¿e dozwolone jest skrêcanie w kierunku wskazanym strza³k¹ w najbli¿sz¹ jezdniê na skrzy¿owaniu, z zastrze¿eniem ust. 3. Skrêcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, ¿e kieruj¹cy zatrzyma siê przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom.
+
+3_5Czy w tej sytuacji nadawany sygna³ œwietlny oznacza, ¿e podczas jazdy w prawo nie wystêpuje kolizja z innymi uczestnikami ruchu?TAK
+//Sygna³ zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, ¿e podczas jazdy we wskazanym kierunku nie wystêpuje kolizja z innymi uczestnikami ruchu.
+
+3_6Czy w tej sytuacji nadawany sygna³ œwietlny zezwala Ci na wjazd za sygnalizator?NIE
+//sygna³y czerwony i ¿ó³ty, nadawane jednoczeœnie - zakaz wjazdu za sygnalizator; sygna³y te oznaczaj¹ tak¿e, ¿e za chwilê zapali siê sygna³ zielony.
+
+3_7Czy w tej sytuacji widoczny dla Twojego pasa ruchu sygna³ œwietlny zezwala Ci na zawracanie?TAK
+//Sygna³y œwietlne nadawane przez sygnalizator kierunkowy S-3 dotycz¹ kieruj¹cych jad¹cych w kierunkach wskazanych strza³k¹ (strza³kami).
+
+3_8Czy w tej sytuacji wolno Ci skrêciæ w prawo, jeœli nie spowodujesz tym utrudnienia ruchu?NIE
+//Sygna³y œwietlne nadawane przez sygnalizator kierunkowy S-3 dotycz¹ kieruj¹cych jad¹cych w kierunkach wskazanych strza³k¹ (strza³kami).
+
+3_9Kierujesz samochodem ciê¿arowym o dopuszczalnej masie ca³kowitej nie przekraczaj¹cej 3,5 tony. Czy w przedstawionej sytuacji wolno Ci wyprzedziæ samochód osobowy?TAK
+//Znak B-26 "zakaz wyprzedzania przez samochody ciê¿arowe" zabrania wyprzedzania pojazdów silnikowych wieloœladowych kieruj¹cemu:
+1)	samochodem ciê¿arowym o dopuszczalnej masie ca³kowitej przekraczaj¹cej 3,5 t,
+2)	ci¹gnikiem samochodowym,
+3)	pojazdem specjalnym lub u¿ywanym do celów specjalnych - o dopuszczalnej masie ca³kowitej przekraczaj¹cej 3,5 t.
+
+3_10Czy w przedstawionej sytuacji umieszczona pod znakiem tabliczka wskazuje odleg³oœæ znaku od miejsca, w którym masz obowi¹zek zatrzymania siê?TAK
+//Umieszczona pod znakiem zakazu tabliczka T-21 wskazuje odleg³oœæ znaku od miejsca, od którego lub w którym zakaz obowi¹zuje.
+
+3_11Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowi¹zek zmniejszyæ prêdkoœæ, aby umo¿liwiæ kieruj¹cemu autobusem w³¹czenie siê do ruchu?TAK
+//Kieruj¹cy pojazdem, zbli¿aj¹c siê do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowi¹zany zmniejszyæ prêdkoœæ, a w razie potrzeby zatrzymaæ siê, aby umo¿liwiæ kieruj¹cemu autobusem (trolejbusem) w³¹czenie siê do ruchu, je¿eli kieruj¹cy takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdniê.
+
+3_12Czy w przedstawionej sytuacji masz prawo skrêciæ w lewo?TAK
+//Rêka osoby kieruj¹cej ruchem wyci¹gniêta poziomo, poprzecznie do kierunku jazdy zbli¿aj¹cych siê pojazdów, oznacza zakaz wjazdu na skrzy¿owanie lub odcinek drogi za osob¹ kieruj¹c¹ ruchem.
+
+3_13Czy za tym znakiem masz prawo zatrzymaæ samochód osobowy ko³ami jednego boku na chodniku?NIE
+//Znak B-36 "zakaz zatrzymywania siê" oznacza zakaz zatrzymania pojazdu.
+
+3_14Czy w tej sytuacji powinieneœ oddaliæ siê od prawej krawêdzi jezdni?TAK
+//Kieruj¹cy pojazdem jest obowi¹zany przy wyprzedzaniu zachowaæ szczególn¹ ostro¿noœæ, a zw³aszcza bezpieczny odstêp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstêp ten nie mo¿e byæ mniejszy ni¿ 1 m.
+
+3_15Czy w tej sytuacji nale¿y zrezygnowaæ z rozpoczêcia wyprzedzania?TAK
+//Zabrania siê wyprzedzania pojazdu silnikowego jad¹cego po jezdni:
+1) przy doje¿d¿aniu do wierzcho³ka wzniesienia;
+2) na zakrêcie oznaczonym znakami ostrzegawczymi;
+3) na skrzy¿owaniu, z wyj¹tkiem skrzy¿owania o ruchu okrê¿nym lub na którym ruch jest kierowany.
